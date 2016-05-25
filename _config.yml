@@ -11,12 +11,12 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Isaac Dozier test
-tagline: Site Tagline
+title : Isaac Dozier
+tagline: Web Developer
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Isaac Dozier 
+  email : isaacdozier@gmail.com
+  github : isaacdozier
   twitter : username
   feedburner : feedname
 
