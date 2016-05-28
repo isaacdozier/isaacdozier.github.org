@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gulp Project"
-description: "My First Gulp Project"
+description: "This is a simple Gulp project I built."
 category: projects
 tags: [gulp, html, javascript]
 ---
