@@ -14,3 +14,5 @@ This is a basic function that uses a decoding method called a 'Caesar Cipher'.
 ##### View:
 
 [Source Code](https://github.com/isaacdozier/caesar-cipher)
+
+[Raw Code](https://raw.githubusercontent.com/isaacdozier/caesar-cipher/master/src.js)
