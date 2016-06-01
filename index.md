@@ -6,13 +6,12 @@ tagline: Projects, Tools & Skills
 {% include JB/setup %}
 
 #### Coding since 2013. 
+
+
 My skills include JavaScript, Node.js, AJAX, PHP, 
 database design, version control and other web technologies.
 
-### These are some of my recent projects, tools and other goodies for you to browse.
-
-## Thank You
-
+### Goodies to browse:
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -20,4 +19,4 @@ database design, version control and other web technologies.
   {% endfor %}
 </ul>
 
-
+## Thank You
