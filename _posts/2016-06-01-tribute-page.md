@@ -10,10 +10,12 @@ tags: [html,css,bootstrap]
 
 ### Basic HTML Page
 
-This is a basic HTML page using CSS and Bootstrap. The page is a tribute to Michael Faraday, a pioneer of electrical studies.
+This is a basic HTML page using CSS and Bootstrap. 
+A FreeCodeCamp 'tribute page' project; 
+mine is dedicated to Michael Faraday, a pioneer of electrical studies.
 
 ##### View:
 
-[Source Code](https://github.com/isaacdozier/tribute-page)
+[Live Site](http://www.isaacdozier.com/tribute-page/)
 
-[Raw Code](https://raw.githubusercontent.com/isaacdozier/tribute-page/master/src.js)
+[Source Code](https://github.com/isaacdozier/tribute-page)
