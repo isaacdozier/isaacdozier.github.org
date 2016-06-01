@@ -7,6 +7,7 @@ tagline: Projects, Tools & Skills
 
 #### Coding since 2013. 
 
+![Isaac Dozier](https://avatars2.githubusercontent.com/u/15636167?v=3&s=460)
 
 My skills include JavaScript, Node.js, AJAX, PHP, 
 database design, version control and other web technologies.
