@@ -9,17 +9,16 @@ tagline: Projects, Tools & Skills
 
 <div class="container">
   <div class="row">
-    <div class="col-md-6 text-right">
-      <img class="img-responsive" src="https://avatars2.githubusercontent.com/u/15636167?v=3&s=80"/>
+    <div class="col-md-6">
+      <img class="img-responsive text-right" src="https://avatars2.githubusercontent.com/u/15636167?v=3&s=80"/>
     </div>
     
     <div class="col-md-8 text-left">
-    
-      #### Coding since 2013. 
-      
-      My skills include JavaScript, Node.js, AJAX, PHP, 
-      database design, version control and other web technologies.
-      
+      <span class="text-right">
+        <h3>Coding since 2013</h3> 
+        <p>My skills include JavaScript, Node.js, AJAX, PHP, 
+        database design, version control and other web technologies.</p>
+      </span>
     </div>
   </div>
 </div>
