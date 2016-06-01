@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Workstation, Same Outcome"
+title: "Learning Jekyll and Gulp on Github with Ric McLaughlin"
 description: "Class Homework"
 category: posts
 tags: [github, jekyll, gulp, node.js]
