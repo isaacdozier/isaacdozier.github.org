@@ -19,6 +19,7 @@ tagline: Projects, Tools & Skills
     </div>
   </div>
 </div>
+
 ### Goodies to browse:
 
 <ul class="posts">
