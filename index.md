@@ -5,17 +5,21 @@ tagline: Projects, Tools & Skills
 ---
 {% include JB/setup %}
 
-#### Coding since 2013. 
+
 
 <div class="container">
   <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-6 text-right">
       <img class="img-responsive" src="https://avatars2.githubusercontent.com/u/15636167?v=3&s=80"/>
     </div>
     
-    <div class="col-md-8">
-       My skills include JavaScript, Node.js, AJAX, PHP, 
-       database design, version control and other web technologies.
+    <div class="col-md-8 text-left">
+    
+      #### Coding since 2013. 
+      
+      My skills include JavaScript, Node.js, AJAX, PHP, 
+      database design, version control and other web technologies.
+      
     </div>
   </div>
 </div>
