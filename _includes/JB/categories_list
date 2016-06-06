@@ -24,14 +24,14 @@ Usage:
     {% for category in categories_list %} 
     	<li>
     	  <a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref">{{ category | join: "/" }}</a> 
-    		<span> {{ site.categories[category].size }}</span>
+    		<mark> {{ site.categories[category].size }}</mark>
     	</li>
     {% endfor %}
   {% else %}
     {% for category in categories_list %} 
     	<li>
     	  <a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category[0] }}-ref">{{ category[0] | join: "/" }}</a>
-    	  <span> {{ category[1].size }}</span>
+    	  <mark> {{ category[1].size }}</mark>
     	</li>
     {% endfor %}
   {% endif %}
