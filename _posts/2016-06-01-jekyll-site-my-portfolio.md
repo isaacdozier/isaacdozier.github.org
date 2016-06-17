@@ -2,6 +2,7 @@
 layout: post
 title: "Jekyll Site (my portfolio)"
 description: "The code that builds my static pages hosted on github - Jekyll"
+link: isaacdozier.com
 category: projects
 tags: [jekyll,ruby]
 ---
