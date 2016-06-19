@@ -11,15 +11,13 @@ Thanks [@ric_mclaughlin](https://twitter.com/ric_mclaughlin) for teaching our cl
 The ability to link a developement enviroment to a github repo is invaluable to any type of developer or software engineer. 
 Using that same Github repo as a static page hosting service adds even more value to those who are still learning to code.
 
-## Follow Up:
+### Follow Up:
 
 Ric's tech class was a great experience. 
 I highly suggest anyone in the Seattle area who is 
 interested in learning about Github, Ruby, Node.js or any tool for that matter, 
 try to attend one of these FREE classes.
 
-### Thanks Ric!!
-
 [ric.mclaughlin.today](http://ric.mclaughlin.today/)
 
-*basic javascript, html and css knowledge is required for this class
+*basic javascript, html and css knowledge was/is required for this class
