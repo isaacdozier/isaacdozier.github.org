@@ -8,7 +8,7 @@
       <span>{{ page.date | date_to_long_string }}</span>
     </div>
     <div class="content">
-      {% if page.link %}<img src="http://api.screenshotmachine.com/?key=ab710a&url="{{page.link}}/>{% endif %}
+      {% if post.link %}<img src="http://api.screenshotmachine.com/?key=ab710a&url="{{ post.link }}/>{% endif %}
       {{ content }}
     </div>
 
