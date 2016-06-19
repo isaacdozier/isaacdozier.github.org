@@ -2,6 +2,7 @@
 layout: post
 title: "Tribute Page"
 description: "A tribute page to Michael Faraday"
+link: http://www.isaacdozier.com/tribute-page/
 category: freecodecamp
 tags: [html,css,bootstrap]
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: "Gulp Project"
 description: "Simple Gulp project"
+link: https://isaacdozier.github.io/gulp-app/
 category: projects
 tags: [gulp, html, javascript]
 ---
