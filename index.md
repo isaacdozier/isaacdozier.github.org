@@ -17,7 +17,9 @@ tagline: Projects, Tools & Skills
         database design, version control and other web technologies.
       </p>
       
-      <hr>
+    </div>
+    
+    <div class="col-xs-12">
       
       <h3>goodies to browse:</h3>
       
