@@ -3,7 +3,7 @@ layout: post
 title: "Screenshot API"
 description: "Add simple screenshot API to static Github page"
 category: projects
-tags: [API, images]
+tags: [api]
 ---
 {% include JB/setup %}
 
@@ -11,11 +11,9 @@ tags: [API, images]
 
 Using a basic API call, I'm able to render live versions of my projects into my posts without the need to update, store or track any image files.
 
-##### View:
+See the [Screenshotmachine.com API Guide](https://screenshotmachine.com/apiguide.php) for more details.
 
-[Screenshotmachine.com API Guide](https://screenshotmachine.com/apiguide.php)
-
-Examples:
+Portfolio Examples:
 
 - [Michael Faraday Tribute Page](http://isaacdozier.com/freecodecamp/tribute-page)
 - [Gulp App 2 Project](http://isaacdozier.com/projects/gulp-app-2)

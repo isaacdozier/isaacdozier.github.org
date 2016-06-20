@@ -1,0 +1,19 @@
+
+  {% if tags_list.first[0] == null %}
+    {% for tag in tags_list %} 
+    	<li>
+    	  <a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag }}-ref">{{ tag }}</a>
+      	<mark>{{ site.tags[tag].size }}</mark>
+    	</li>
+    {% endfor %}
+  {% else %}
+    {% for tag in tags_list %} 
+    	<li class="pull-left list-group-item-image">
+      	<a href="{{ BASE_PATH }}{{ site.JB.tags_path }}#{{ tag[0] }}-ref">
+      	    <img class="tile" src="{{ BASE_PATH }}/assets/themes/img/{{ tag[0] }}.png"/>
+      	</a>
+    	</li>
+    {% endfor %}
+  {% endif %}
+
+{% assign tags_list = nil %}

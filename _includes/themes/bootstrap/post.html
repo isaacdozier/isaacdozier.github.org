@@ -4,17 +4,32 @@
 
 <div class="row post-full">
   <div class="col-md-12">
-    <div class="date">
-      <span>{{ page.date | date_to_long_string }}</span>
-    </div>
-    <div class="content">
-      {{ content }}
+    <div class="content row">
+      <div class="col-xs-12 col-md-4 desc">
+        <div class="date">
+          <span>{{ page.date | date_to_long_string }}</span>
+        </div>
+        {{ content }}
+      </div>
       
-      {% if page.link %}
-        <h5>live-site snapshot</h5>
-        <img class="img-thumbnail" src="http://api.screenshotmachine.com/?key=ab710a&url={{ page.link }}&format=gif&size=N"/>
-      {% endif %}
+      <div class="col-xs-12 col-md-8">
+        {% if page.live-link %}
+          <img class="img-responsive img-even" 
+               src="http://api.screenshotmachine.com/?key=ab710a&url={{ page.live-link }}&format=gif&size=N"
+               alt="{{ page.title }}"/>
+        {% endif %}
+      </div>
     </div>
+    
+    <ul class="bits_box list-inline">
+      {% if page.live-link %}
+        <li>view the <a href="{{ page.live-link }}">live site</a> .. </li>
+      {% endif %}
+      
+      {% if page.git-link %}
+        <li>analyze the <a href="{{ page.git-link }}">Source Code</a> ..</li>
+      {% endif %}
+    </ul>
     
     <hr>
   

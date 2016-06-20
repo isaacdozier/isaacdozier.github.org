@@ -3,14 +3,12 @@ layout: post
 title: "Rainy Day Yard Service"
 description: "A basic page for a local yard work business"
 old-url:
-link: http://www.rainydayyardservice.com/
+live-link: http://www.rainydayyardservice.com/
 category: local
-tags: [php, html, css, seo]
+tags: [php, html, css]
 ---
 {% include JB/setup %}
 
 ### Basic HTML Page
 
-##### View:
-
-[Live Site](http://www.rainydayyardservice.com/)
+Basic site built from ground-up using php, html and css.
