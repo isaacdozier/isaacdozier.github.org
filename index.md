@@ -23,17 +23,6 @@ tagline: Projects, Tools & Skills
             and I enjoy playing fetch with my dog.
           </p>
         </div>
-        
-        <div class="col-xs-12">
-        
-          <h4 class="tab">tags:</h4>
-          
-          <ul class=" tag_box list-inline tiles">
-            {% assign tags_list = site.tags %}  
-            {% include JB/tags_image %}
-          </ul>
-          
-        </div>
       </div>
     </div>
     
