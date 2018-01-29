@@ -17,19 +17,19 @@ This calculator can also convert inch-fraction to decimal format.
 
 Accurate to within 0.03125 of an inch (0.5 sixteenth).
 
-##Convert Numbers
-###Decimal to Inch Fraction 
+Convert Numbers
+Decimal to Inch Fraction 
 0.000 = 00-00-00 
 
-###Inch Fraction to Decimal 
+Inch Fraction to Decimal 
 00.00.00 = 0.000
 
-##Convert Expressions
+Convert Expressions
 0.00 +/- 0.00 = 00-00-00 
 0.00 +/- 00.00.00 = 00-00-00 
 00.00.00 +/- 00.00.00 = 00-00-00
 
-####Important Updates
+Important Updates
 v1.2.0-beta:
 Added feature allowing subtraction to be used in expressions.
 Expressions can currently include addition and subtraction operators simultaniously.
