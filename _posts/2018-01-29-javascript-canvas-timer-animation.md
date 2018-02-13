@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fraction-Inch Calculator"
+title: "Javascript & Canvas Timer App"
 description: "A basic timer app using canvas to display a second hand"
 live-link: http://isaacdozier.com/canvas-animations/
 git-link: https://github.com/isaacdozier/canvas-animations

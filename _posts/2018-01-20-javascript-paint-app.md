@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Fraction-Inch Calculator"
-description: "A tool for converting decimal numbers and expression to fraction-inch format. Also capable of conversions from fraction-inch to decimal."
-live-link: http://www.isaacdozier.com/fis-calculator/
-git-link: https://github.com/isaacdozier/fis-calculator
+title: "Javascript Paint App"
+description: "A Basic Paint App Built using Javascript"
+live-link: http://www.isaacdozier.com/drawing-app/
+git-link: https://github.com/isaacdozier/drawing-app
 category: apps
 tags: [javascript,html,css,bootstrap]
 ---
