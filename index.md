@@ -10,20 +10,22 @@ tagline: Projects, Tools & Skills
     <div class="col-xs-12 col-md-6">
       <div class="row">
         <div class="col-xs-12">
-        
-          <img class="img-circle pull-left twenty-margin-right" 
-               src="https://avatars2.githubusercontent.com/u/15636167?v=3&s=160"
-               alt="Isaac Dozier Profile Image"/>
+          <div>
+            <img class="img-circle pull-left twenty-margin-right" 
+                 src="https://avatars2.githubusercontent.com/u/15636167?v=3&s=160"
+                 alt="Isaac Dozier Profile Image"/>
+            <p>
+              Skills include JavaScript, Node.js, AJAX, PHP, 
+              C9 Cloud integration, Github version control and other web technologies.
+              <br />
+              <br /> 
+              My free-time is filled with hiking, seasonal foraging and camping.
+              I really like gardening, building applications that are scalable, 
+              and playing fetch with my dog.
+            </p>
+          </div>
           
-          <p>
-            Skills include JavaScript, Node.js, AJAX, PHP, 
-            database design, version control and other web technologies. 
-            My free-time is filled with mountain biking, seasonal foraging and camping.
-            I really like gardening, building applications that are scalable, 
-            and I enjoy playing fetch with my dog.
-          </p>
-          
-           <div class="list-group">
+          <div class="list-group">
             {% for post in site.posts %}
               <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">
                 <h4 class="list-group-item-heading">{{ post.title }}</h4>
