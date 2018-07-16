@@ -5,7 +5,7 @@ description: "A tool for converting decimal numbers and expression to fraction-i
 live-link: http://www.isaacdozier.com/fis-calculator/
 git-link: https://github.com/isaacdozier/fis-calculator
 category: apps
-tags: [javascript,html,css,bootstrap]
+tags: [javascript,html,css,bootstrap,adsense]
 ---
 {% include JB/setup %}
 
