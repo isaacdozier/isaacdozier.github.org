@@ -22,23 +22,25 @@ tagline: Projects, Tools & Skills
             I really like gardening, building applications that are scalable, 
             and I enjoy playing fetch with my dog.
           </p>
+          
+           <div class="list-group">
+            <h3 class="tab">goodies to browse</h3>
+            {% for post in site.posts %}
+              <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">
+                <h4 class="list-group-item-heading">{{ post.title }}</h4>
+                <p class="list-group-item-text">
+                  <span>{{ post.date | date_to_string }}</span> &raquo; 
+                  {{ post.description }}
+                </p>
+              </a>
+            {% endfor %}    
+          </div>
         </div>
       </div>
     </div>
     
     <div class="col-xs-12 col-md-6">
-      <div class="list-group">
-        <h3 class="tab">goodies to browse</h3>
-        {% for post in site.posts %}
-          <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">
-            <h4 class="list-group-item-heading">{{ post.title }}</h4>
-            <p class="list-group-item-text">
-              <span>{{ post.date | date_to_string }}</span> &raquo; 
-              {{ post.description }}
-            </p>
-          </a>
-        {% endfor %}    
-      </div>
+     
     </div>
   </div>
 </div>
