@@ -10,7 +10,7 @@ tagline: Projects, Tools & Skills
     <div class="col-xs-12 col-md-6">
       <div class="row">
         <div class="col-xs-12">
-          <div>
+          <div class="row">
             <img class="img-circle pull-left twenty-margin-right" 
                  src="https://avatars2.githubusercontent.com/u/15636167?v=3&s=160"
                  alt="Isaac Dozier Profile Image"/>
@@ -25,7 +25,7 @@ tagline: Projects, Tools & Skills
             </p>
           </div>
           
-          <div class="list-group">
+          <div class="row list-group">
             {% for post in site.posts %}
               <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">
                 <h4 class="list-group-item-heading">{{ post.title }}</h4>
