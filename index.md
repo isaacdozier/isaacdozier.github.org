@@ -24,7 +24,6 @@ tagline: Projects, Tools & Skills
           </p>
           
            <div class="list-group">
-            <h3 class="tab">goodies to browse</h3>
             {% for post in site.posts %}
               <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">
                 <h4 class="list-group-item-heading">{{ post.title }}</h4>
