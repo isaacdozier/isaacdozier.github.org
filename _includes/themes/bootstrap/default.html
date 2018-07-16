@@ -41,9 +41,12 @@
 
         <div class="collapse navbar-collapse navbar-ex1-collapse">
           <ul class="nav navbar-nav">
-            {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
+            <li><a href="/categories.html#education-ref">Educational Tools</a></li>
+            <li><a href="/tags.html#javascript-ref">Javascript Projects</a></li>
+            <li><a>/</a></li>
+            <li><a href="http://isaacdozier.com/solve-x/">Solve-X</a></li>
+            <li><a href="http://isaacdozier.com/fis-calculator/">Fraction-Inch-Coverter</a></li>
+            <li><a href="http://isaacdozier.com/prime-generating-algorithm/">Prime-Generating-Algorithm</a></li>
           </ul>
         </div>
       </div>
@@ -52,6 +55,11 @@
       {{ content }}
       <hr>
       <footer>
+        <p>
+          {% assign pages_list = site.pages %}
+            {% assign group = 'navigation' %}
+            {% include JB/pages_list %}
+        </p>
         <p>
           &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
         </p>
