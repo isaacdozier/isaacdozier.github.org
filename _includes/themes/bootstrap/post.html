@@ -1,5 +1,6 @@
 <div class="page-header">
-  <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+    <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+    <a href="{{ page.live-link }}">Live Site</a>
 </div>
 
 <div class="row post-full">
@@ -14,9 +15,12 @@
       
       <div class="col-xs-12 col-md-8">
         {% if page.live-link %}
-          <img class="img-responsive img-even" 
+          <h3>Live Site Preview</h3>
+          <a href="{{ page.live-link }}">
+            <img class="img-responsive img-even" 
                src="http://api.screenshotmachine.com/?key=ab710a&url={{ page.live-link }}&format=gif&size=N"
                alt="{{ page.title }}"/>
+          </a>
         {% endif %}
       </div>
     </div>
