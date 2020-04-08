@@ -45,5 +45,3 @@ tagline: Projects, Tools & Skills
     </div>
   </div>
 </div>
-
-
