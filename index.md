@@ -46,8 +46,4 @@ tagline: Projects, Tools & Skills
   </div>
 </div>
 
-### Thank You
 
-Browse my [Github](https://github.com/isaacdozier) repositories .. 
-Check out my [Linkedin](https://www.linkedin.com/in/isaac-dozier-14a6b044) profile .. 
-Watch my activity on the [Stack](http://stackoverflow.com/users/4566193/isaac-dozier) network .. 

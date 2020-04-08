@@ -11,4 +11,4 @@ tags: [javascript,html,math]
 
 ### Education > Math
 
-Generates prime numbers for a given ragne.
+Generates prime numbers for a given range.
