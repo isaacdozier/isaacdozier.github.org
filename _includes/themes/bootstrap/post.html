@@ -14,11 +14,11 @@
       
       <div class="col-xs-12 col-md-8">
         {% if page.live-link %}
-          <a href="{{ page.live-link }}">
+          <a target="_blank" href="{{ page.live-link }}">
             <h3>Live Site Preview</h3>
           </a>
-          
-          <a href="{{ page.live-link }}">
+
+          <a target="_blank" href="{{ page.live-link }}">
             <img class="img-responsive img-even" 
                src="http://api.screenshotmachine.com/?key=ab710a&url={{ page.live-link }}&format=gif&size=N"
                alt="{{ page.title }}"/>
@@ -29,11 +29,11 @@
     
     <ul class="bits_box list-inline">
       {% if page.live-link %}
-        <li>view the <a href="{{ page.live-link }}">live site</a> .. </li>
+        <li>view the <a target="_blank" href="{{ page.live-link }}">live site</a> .. </li>
       {% endif %}
       
       {% if page.git-link %}
-        <li>analyze the <a href="{{ page.git-link }}">source code</a> .. </li>
+        <li>analyze the <a target="_blank" href="{{ page.git-link }}">source code</a> .. </li>
       {% endif %}
     </ul>
     
