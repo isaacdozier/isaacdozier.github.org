@@ -13,4 +13,4 @@ tags: [google maps, ip]
 
 This is an example of how API's can use information from other API's to build powerful tools.
 
-This project uses an ip adress API to find the GPS coordinates that the server in pinging. Using these coordinate with the Google Maps API, I'm able to show a live maps of the pinged location.
+This project uses an ip adress API to find the GPS coordinates that the server in pinging. Using these coordinate with the Google Maps API, I'm able to show a live map of the pinged location.
