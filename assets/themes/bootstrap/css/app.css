@@ -1,0 +1,17 @@
+.header{
+	margin-bottom: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #212529;
+    color: white;
+}
+
+.footer{
+    margin-top: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #212529;
+    color: white;
+}
