@@ -20,6 +20,6 @@ Buy [Vacuum Hoses](https://www.lceperformance.com/22RE-Silicone-Vacuum-Hose-Kit-
 <button onclick="loadContent(this.innerHTML)">1</button>
 <button onclick="loadContent(this.innerHTML)">2</button>
 <div id="content">
-	![Aisin Carburetor Vacuum Lines](http://isaacdozier.com/assets/custom-img/1.jpg)
+	<img src="http://isaacdozier.com/assets/custom-img/1.jpg"></img>
 </div>
 <script src="http://isaacdozier.com/assets/custom-js/22r.js"></script>
