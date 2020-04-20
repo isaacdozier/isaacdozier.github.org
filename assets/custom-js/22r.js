@@ -4,7 +4,7 @@ function changeImg(f) {
 	 document.getElementById("content").src = src;
 	 document.getElementById("content").scrollIntoView()
 	 document.getElementById(f).style.background-color = "red";
-	 document.getElementById(last).style.color = "";
+	 document.getElementById(last).style.background-color = "";
 	 last = f
 }
 
