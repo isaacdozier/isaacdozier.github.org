@@ -17,6 +17,9 @@ Buy [22R/22RE Silicone Vacuum Lines](https://www.lceperformance.com/22RE-Silicon
 
 <img id="content" src="http://isaacdozier.com/assets/custom-img/0.png">
 
+Select an in-video image to view.
+Images matched to timestamp for reference purposes.
+
 Start of video → 
 <button onclick="changeImg(0)">🔍</button> <br/>
 
@@ -29,11 +32,11 @@ Start of video →
 1:56 → <button onclick="changeImg(7)">🔍</button> <br/>
 2:04 → <button onclick="changeImg(8)">🔍</button> <br/>
 2:19 → <button onclick="changeImg(9)">🔍</button>
-	 → <button onclick="changeImg(10)">🔍</button> <br/>
+	   <button onclick="changeImg(10)">🔍</button> <br/>
 2:45 → <button onclick="changeImg(11)">🔍</button> <br/>
 3:00 → <button onclick="changeImg(12)">🔍</button> <br/>
 3:08 → <button onclick="changeImg(13)">🔍</button>
-	 → <button onclick="changeImg(14)">🔍</button> <br/>
+	   <button onclick="changeImg(14)">🔍</button> <br/>
 4:15 → <button onclick="changeImg(15)">🔍</button> <br/>
 
 End of video → 
@@ -44,8 +47,5 @@ End of video →
 
 Extra images → 
 <button onclick="changeImg(20)">🔍</button>
-
-
-
 
 <script src="http://isaacdozier.com/assets/custom-js/22r.js"></script>
