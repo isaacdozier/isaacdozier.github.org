@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: video
 title: "22R Aisin Carburetor Vacuum Lines Diagram"
 description: "A close up look at the vacuum line on an Aisin carburetor from a 22R engine."
-live-link: 
-git-link: 
+video-link: https://www.youtube.com/embed/9omRz4x0oHI
 category: YouTube Channel
 tags: [22R, Aisin Carburetor]
 ---
@@ -11,13 +10,10 @@ tags: [22R, Aisin Carburetor]
 
 ### 22R Aisin Carburetor Vacuum Lines Diagram
 
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/9omRz4x0oHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Buy [22R/22RE Silicone Vacuum Lines](https://www.lceperformance.com/22RE-Silicone-Vacuum-Hose-Kit-Black-p/1072442.htm) from LCE Performance.
-
 <img id="content" src="http://isaacdozier.com/assets/custom-img/0.png">
 
 Select an in-video timestamp below to view image.
+
 Images matched to timestamp for reference purposes.
 
 Start of video → 
@@ -47,5 +43,7 @@ End of video →
 
 Extra images → 
 <button id="20" onclick="changeImg(20)">🔍</button>
+
+Buy [22R/22RE Silicone Vacuum Lines](https://www.lceperformance.com/22RE-Silicone-Vacuum-Hose-Kit-Black-p/1072442.htm) from LCE Performance.
 
 <script src="http://isaacdozier.com/assets/custom-js/22r.js"></script>
