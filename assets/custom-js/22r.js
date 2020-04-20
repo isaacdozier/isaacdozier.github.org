@@ -5,7 +5,8 @@ function changeImg(f) {
 	 document.getElementById("content").scrollIntoView()
 	 document.getElementById(f).style.color = "red";
 	 if(last){
-	 	document.getElementById(last).style.color = "";
+	 	//document.getElementById(last).style.color = "";
+	 	console.log(last)
 	 }
 	 last = f
 }
