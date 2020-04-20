@@ -11,6 +11,6 @@ tags: [22R, Aisin Carburetor]
 
 ### 22R Aison Carburetor Vacuum Lines Diagram
 
-![Aison Carburetor Vacuum Lines](/img/22r_vacuum.jpg)
+![Aison Carburetor Vacuum Lines](http://isaacdozier.com/assets/themes//img/22r_vacuum.jpg)
 
 Buy [Vacuum Hoses](https://www.lceperformance.com/22RE-Silicone-Vacuum-Hose-Kit-Black-p/1072442.htm)
