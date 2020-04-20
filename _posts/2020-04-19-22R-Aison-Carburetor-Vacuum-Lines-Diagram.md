@@ -13,7 +13,7 @@ tags: [22R, Aisin Carburetor]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9omRz4x0oHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Buy 22R/22RE Silicone[Vacuum Lines](https://www.lceperformance.com/22RE-Silicone-Vacuum-Hose-Kit-Black-p/1072442.htm) from LCE Performance.
+Buy [22R/22RE Silicone Vacuum Lines](https://www.lceperformance.com/22RE-Silicone-Vacuum-Hose-Kit-Black-p/1072442.htm) from LCE Performance.
 
 <button onclick="changeImg(this.innerHTML)">1</button>
 <button onclick="changeImg(this.innerHTML)">2</button>
