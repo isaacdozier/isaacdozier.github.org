@@ -1,12 +1,10 @@
-var last
+var last = 0
 function changeImg(f) {
 	var src = "http://isaacdozier.com/assets/custom-img/" + f + '.png';
 	 document.getElementById("content").src = src;
 	 document.getElementById("content").scrollIntoView()
 	 document.getElementById(f).style.background-color = "red";
-	 if(last){
-	 	document.getElementById(last).style.color = "";
-	 }
+	 document.getElementById(last).style.color = "";
 	 last = f
 }
 
