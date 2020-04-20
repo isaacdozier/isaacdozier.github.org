@@ -1,10 +1,4 @@
-var content = document.getElementById("content");
-
-function loadContent(f, file_type) {
-	var client = new XMLHttpRequest();
-	client.open('GET', "http://isaacdozier.com/assets/custom-img/" + f + '.png');
-	client.onreadystatechange = function() {
-	  content.innerHTML = client.responseText;
-	}
-	client.send();
+function changeImg(f) {
+	var src = "http://isaacdozier.com/assets/custom-img/" + f + '.png';
+	 document.getElementById("content").src = src;
 }

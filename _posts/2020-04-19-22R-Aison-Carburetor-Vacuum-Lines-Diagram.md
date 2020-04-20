@@ -15,10 +15,9 @@ tags: [22R, Aisin Carburetor]
 
 Buy 22R/22RE Silicone[Vacuum Lines](https://www.lceperformance.com/22RE-Silicone-Vacuum-Hose-Kit-Black-p/1072442.htm) from LCE Performance.
 
+<button onclick="changeImg(this.innerHTML)">1</button>
+<button onclick="changeImg(this.innerHTML)">2</button>
 
-
-<div id="content">
-	<img src="http://isaacdozier.com/assets/custom-img/1.png">
-</div>
+<img id="content" src="http://isaacdozier.com/assets/custom-img/1.png">
 
 <script src="http://isaacdozier.com/assets/custom-js/22r.js"></script>
