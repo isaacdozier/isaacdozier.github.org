@@ -15,23 +15,23 @@ tags: [22R, Aisin Carburetor]
 
 Buy [22R/22RE Silicone Vacuum Lines](https://www.lceperformance.com/22RE-Silicone-Vacuum-Hose-Kit-Black-p/1072442.htm) from LCE Performance.
 
-<img id="content" src="http://isaacdozier.com/assets/custom-img/1.png">
+<img id="content" src="http://isaacdozier.com/assets/custom-img/0.png">
 
-0:37 → <button onclick="changeImg(this.innerHTML)">1</button>
-1:00 → <button onclick="changeImg(this.innerHTML)">2</button>
-1:00 → <button onclick="changeImg(this.innerHTML)">3</button>
-1:24 → <button onclick="changeImg(this.innerHTML)">4</button>
-1:34 → <button onclick="changeImg(this.innerHTML)">5</button>
-1:36 → <button onclick="changeImg(this.innerHTML)">6</button>
-1:56 → <button onclick="changeImg(this.innerHTML)">7</button>
-2:04 → <button onclick="changeImg(this.innerHTML)">8</button>
+0:37 → <button onclick="changeImg(this.innerHTML)">1</button> </br>
+1:00 → <button onclick="changeImg(this.innerHTML)">2</button> </br>
+1:00 → <button onclick="changeImg(this.innerHTML)">3</button> </br>
+1:24 → <button onclick="changeImg(this.innerHTML)">4</button> </br>
+1:34 → <button onclick="changeImg(this.innerHTML)">5</button> </br>
+1:36 → <button onclick="changeImg(this.innerHTML)">6</button> </br>
+1:56 → <button onclick="changeImg(this.innerHTML)">7</button> </br>
+2:04 → <button onclick="changeImg(this.innerHTML)">8</button> </br>
 2:19 → <button onclick="changeImg(this.innerHTML)">9</button>
-	 → <button onclick="changeImg(this.innerHTML)">10</button>
-2:45 → <button onclick="changeImg(this.innerHTML)">11</button>
-3:00 → <button onclick="changeImg(this.innerHTML)">12</button>
+	 → <button onclick="changeImg(this.innerHTML)">10</button> </br>
+2:45 → <button onclick="changeImg(this.innerHTML)">11</button> </br>
+3:00 → <button onclick="changeImg(this.innerHTML)">12</button> </br>
 3:08 → <button onclick="changeImg(this.innerHTML)">13</button>
-	 → <button onclick="changeImg(this.innerHTML)">14</button>
-4:15 → <button onclick="changeImg(this.innerHTML)">15</button>
+	 → <button onclick="changeImg(this.innerHTML)">14</button> </br>
+4:15 → <button onclick="changeImg(this.innerHTML)">15</button> </br>
 
 End of video
 <button onclick="changeImg(this.innerHTML)">16</button>
