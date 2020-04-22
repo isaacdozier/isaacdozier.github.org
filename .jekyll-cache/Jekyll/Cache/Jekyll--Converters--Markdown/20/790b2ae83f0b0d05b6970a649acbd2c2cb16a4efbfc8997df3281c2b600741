@@ -1,0 +1,15 @@
+I"‰
+<h3 id="basic-api-call">Basic API Call</h3>
+
+<p>Using a basic API call, Iâ€™m able to render live versions of my projects into my posts without the need to update, store or track any image files.</p>
+
+<p>See the <a href="https://screenshotmachine.com/apiguide.php">Screenshotmachine.com API Guide</a> for more details.</p>
+
+<p>Portfolio Examples:</p>
+
+<ul>
+  <li><a href="http://isaacdozier.com/freecodecamp/tribute-page">Michael Faraday Tribute Page</a></li>
+  <li><a href="http://isaacdozier.com/projects/gulp-app-2">Gulp App 2 Project</a></li>
+  <li><a href="http://isaacdozier.com/projects/jekyll-site-my-portfolio">My Portfolio</a></li>
+</ul>
+:ET

@@ -1,15 +1,14 @@
 var last = 0
 function changeImg(f) {
-	var src = "http://isaacdozier.com/assets/custom-img/" + f + '.png';
-	 document.getElementById("content").src = src;
-	 document.getElementById("content").scrollIntoView()
+	var src = "/assets/custom-img/" + f + '.png';
+	var srcReal = "/assets/custom-img/real/" + f + '.jpg';
+	 document.getElementById("img").src = src;
+	 document.getElementById("img-link").href = src;
+	 document.getElementById("img-real").src = srcReal;
+	 document.getElementById("img-real-link").src = srcReal;
 	 document.getElementById(f).style.backgroundColor = "red";
 	 document.getElementById(last).style.backgroundColor = "";
 	 last = f
-}
 
-function changeVideoTimestamp(f) {
-	var src = "https://youtu.be/9omRz4x0oHI?t=" + f;
-	document.getElementById("video").src = src;
-	document.getElementById("video").scrollIntoView()
+	 //document.getElementsById("content").scrollIntoView()
 }
