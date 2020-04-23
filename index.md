@@ -11,20 +11,25 @@ tagline: Projects, Tools & Skills
       <div class="row">
         <div class="col-xs-12">
           <div class="row">
-            <img class="img-circle pull-left twenty-margin-right" 
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+              <img class="img-circle pull-left twenty-margin-right" 
                  src="https://avatars2.githubusercontent.com/u/15636167?v=3&s=160"
                  alt="Isaac Dozier Profile Image"/>
-            <p>
-              Skills include JavaScript, Node.js, AJAX, PHP, 
-              C9 Cloud integration, Github version control and other web technologies.
-              <br />
-              <br /> 
-              My free-time is filled with hiking, seasonal foraging and camping.
-              I really like gardening, building applications that are scalable, 
-              and playing fetch with my dog.
-            </p>
+              <p>
+                99% javaScript, ruby & jekyll <br />
+                Hiking, yes<br /> 
+                mushroom picking is a good day<br />
+                scalable applications are cool<br />
+                nothing beats playing fetch with my dog<br />
+              <a target="_blank" href="{{ BASE_PATH }}/solve-X/">
+                [ Solve X - Algebra Game ]
+              </a><br/>
+              <a target="_blank" href="https://www.youtube.com/channel/UCZf1_WYi6mudZmfyVOcjnxQ">
+                [ My YouTube Channel ]
+              </a>
+              </p>
+            </div>
           </div>
-          
           <div class="row list-group">
             {% for post in site.posts %}
               <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">
@@ -38,10 +43,6 @@ tagline: Projects, Tools & Skills
           </div>
         </div>
       </div>
-    </div>
-    
-    <div class="col-xs-12 col-md-6">
-     
     </div>
   </div>
 </div>
