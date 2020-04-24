@@ -5,7 +5,7 @@ function changeImg(f) {
 	 document.getElementById("img").src = src;
 	 document.getElementById("img-link").href = src;
 	 document.getElementById("img-real").src = srcReal;
-	 document.getElementById("img-real-link").src = srcReal;
+	 document.getElementById("img-real-link").href = srcReal;
 	 document.getElementById(f).style.backgroundColor = "red";
 	 document.getElementById(last).style.backgroundColor = "";
 	 last = f
