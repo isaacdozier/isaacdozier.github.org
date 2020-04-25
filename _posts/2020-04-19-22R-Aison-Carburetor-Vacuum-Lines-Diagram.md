@@ -19,7 +19,7 @@ tags: [YouTube, 22R, Aisin Carburetor]
 	</div>
 	<div class="col-xs-12 col-md-3 col-lg-3">
 		<br/>
-		0:00 → <button id="0" onclick="changeImg(0)">0</button> <br/>
+		0:00 → <button style="background-color: red" id="0" onclick="changeImg(0)">0</button> <br/>
 		0:37 → <button id="1" onclick="changeImg(1)">1</button> <br/>
 		1:00 → <button id="2" onclick="changeImg(2)">2</button> <br/>
 		1:00 → <button id="3" onclick="changeImg(3)">3</button> <br/>
