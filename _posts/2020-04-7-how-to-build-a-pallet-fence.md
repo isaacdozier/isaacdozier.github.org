@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: video
 title: "How to Build a Pallet Fence"
 uid: "how-to-build-pallet-fence"
 description: "I've been building and extending my pallet fence using T posts and pallets. Here is a quick rundown of my technique."
