@@ -12,7 +12,12 @@ tags: [YouTube, 22R, Aisin Carburetor]
 	<div class="col-xs-12 col-md-9 col-lg-9">
 		<b>Best if viewed on a desktop computer</b>
 		<br/>
-		<br/>
+		Video Link: 
+        <a href="https://youtu.be/{{ page.video-link }}" >
+      		https://youtu.be/{{ page.video-link }}
+      	</a>
+      	<br/>
+      	<br/>
 		👉 <a id="img-link" target="_blank" href="{{ BASE_PATH }}/assets/custom-img/0.png">Full Size Image</a>
 		<img id="img" src="{{ BASE_PATH }}/assets/custom-img/0.png">
 		<br/>

@@ -1,9 +1,14 @@
-I"�
+I"�
 <div id="content" class="row">
 	<div class="col-xs-12 col-md-9 col-lg-9">
 		<b>Best if viewed on a desktop computer</b>
 		<br />
-		<br />
+		Video Link: 
+        <a href="https://youtu.be/9omRz4x0oHI">
+      		https://youtu.be/9omRz4x0oHI
+      	</a>
+      	<br />
+      	<br />
 		👉 <a id="img-link" target="_blank" href="/assets/custom-img/0.png">Full Size Image</a>
 		<img id="img" src="/assets/custom-img/0.png" />
 		<br />
@@ -36,11 +41,5 @@
 		extra→ <button id="18" onclick="changeImg(18)">18</button> <br />
 		extra→ <button id="19" onclick="changeImg(19)">19</button> <br />
 		extra→ <button id="20" onclick="changeImg(20)">20</button> <br /><br />
-
-		<i>*images are numbered for referencing purposes</i>
-	</div>
-</div>
-
-<script src="/assets/custom-js/22r.js"></script>
-
+</div></div>
 :ET
