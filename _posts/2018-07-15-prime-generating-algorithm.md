@@ -4,8 +4,8 @@ title: "Prime Generating Algorithm"
 description: "Generates prime numbers for a given ragne."
 live-link: http://isaacdozier.com/prime-generating-algorithm/
 git-link: https://github.com/isaacdozier/prime-generating-algorithm
-category: education
-tags: [javascript,html,math]
+category: App
+tags: [Javascript, html, Math]
 ---
 {% include JB/setup %}
 

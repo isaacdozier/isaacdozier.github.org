@@ -4,8 +4,8 @@ title: "Gulp Project"
 description: "Simple Gulp project"
 live-link: https://isaacdozier.github.io/gulp-app/
 git-link: https://github.com/isaacdozier/gulp-app
-category: projects
-tags: [gulp, html, javascript]
+category: Project
+tags: [Gulp, Javascript, Node.js, Backend]
 ---
 {% include JB/setup %}
 

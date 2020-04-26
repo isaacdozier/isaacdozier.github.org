@@ -33,9 +33,10 @@ description: YouTube Projects, Internet Tools, Outdoor Stuff, 99.27% javascript,
           <div class="row list-group">
             {% for post in site.posts %}
               <a href="{{ BASE_PATH }}{{ post.url }}" class="list-group-item">
+                <span>[ {{ post.category }} ]</span>
                 <h4 class="list-group-item-heading">{{ post.title }}</h4>
                 <p class="list-group-item-text">
-                  <span>{{ post.date | date_to_string }}</span> &raquo; 
+                  {{ post.date | date_to_string }} &raquo; 
                   {{ post.description }}
                 </p>
               </a>

@@ -3,7 +3,7 @@ layout: video
 title: "22R Aisin Carburetor Vacuum Lines Diagram"
 description: "A close up look at the vacuum line on an Aisin carburetor from a 22R engine."
 video-link: https://www.youtube.com/embed/9omRz4x0oHI
-category: video
+category: Video
 tags: [YouTube, 22R, Aisin Carburetor]
 ---
 {% include JB/setup %}

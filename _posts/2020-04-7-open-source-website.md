@@ -4,8 +4,8 @@ title: "The Open Source Website Project"
 description: "An Open Source Github Project for Self Taught Programmers."
 live-link: https://selftaughtprogrammers.github.io/
 git-link: https://github.com/selftaughtprogrammers/selftaughtprogrammers.github.io
-category: open source
-tags: [jekyll, github]
+category: Open Source
+tags: [Jekyll, Github]
 ---
 {% include JB/setup %}
 

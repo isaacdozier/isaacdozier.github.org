@@ -3,8 +3,8 @@ layout: post
 title: "Display Names Challenge"
 description: "Multi language ISO 639-2 building block"
 git-link: https://github.com/isaacdozier/display-names
-category: projects 
-tags: [javascript, node]
+category: Project
+tags: [Node.js]
 ---
 {% include JB/setup %}
 

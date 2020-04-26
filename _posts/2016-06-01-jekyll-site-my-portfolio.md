@@ -5,8 +5,8 @@ description: "The code that builds my static pages hosted on github - Jekyll"
 old-url: http://doziermedia.com/
 live-link: http://isaacdozier.com/
 git-link: https://github.com/isaacdozier/isaacdozier.github.com
-category: projects
-tags: [jekyll,ruby]
+category: Project
+tags: [Jekyll, Ruby, Github, Javascript]
 ---
 {% include JB/setup %}
 

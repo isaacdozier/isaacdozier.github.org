@@ -1,0 +1,7 @@
+I"ü
+<h3 id="gulp-appproject">Gulp App/Project</h3>
+
+<p>This is a basic example of a Gulp app project. 
+This app also takes advantage of a gh-pages function to build/deploy 
+a Gulp app and push directly to a gh-pages repo for static hosting on Github.</p>
+:ET

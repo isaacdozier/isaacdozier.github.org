@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Screenshot API"
-description: "Add simple screenshot API to static Github page"
-category: projects
-tags: [api]
+description: "Add simple screenshot API to website"
+category: API
+tags: [API]
 ---
 {% include JB/setup %}
 

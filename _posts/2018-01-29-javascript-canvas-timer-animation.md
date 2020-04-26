@@ -4,8 +4,8 @@ title: "Javascript & Canvas Timer App"
 description: "A basic timer app using canvas to display a second hand"
 live-link: http://isaacdozier.com/canvas-animations/
 git-link: https://github.com/isaacdozier/canvas-animations
-category: apps
-tags: [javascript,html,css,bootstrap]
+category: Project
+tags: [Javascript, html, css, Bootstrap]
 ---
 {% include JB/setup %}
 

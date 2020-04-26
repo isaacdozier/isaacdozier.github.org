@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "How to Build a Pallet Fence"
-description: "Over the past few summers, I've been building and extending my pallet fence using T posts and pallets. Here is a quikc rundown of my technique."
+description: "I've been building and extending my pallet fence using T posts and pallets. Here is a quick rundown of my technique."
 live-link: 
 git-link: 
-category: youtube
-tags: [youtube, home improvement]
+category: Video
+tags: [YouTube, Home Improvement]
 ---
 {% include JB/setup %}
 

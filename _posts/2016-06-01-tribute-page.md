@@ -4,8 +4,8 @@ title: "Michael Faraday Tribute Page"
 description: "A tribute page dedicated to Michael Faraday"
 live-link: http://www.isaacdozier.com/tribute-page/
 git-link: https://github.com/isaacdozier/tribute-page
-category: freecodecamp
-tags: [html,css,bootstrap]
+category: FreeCodeCamp
+tags: [html, css, Bootstrap]
 ---
 {% include JB/setup %}
 

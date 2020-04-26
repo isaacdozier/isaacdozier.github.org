@@ -5,7 +5,7 @@ description: "CC/Closed Captions on YouTube videos can be edited and reviewed by
 live-link: http://www.youtube.com/timedtext_cs_panel?c=UCZf1_WYi6mudZmfyVOcjnxQ&tab=2
 git-link: 
 category: Open Source
-tags: [youtube, closed captions]
+tags: [YouTube, Closed Captions]
 ---
 {% include JB/setup %}
 
