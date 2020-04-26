@@ -1,3 +1,7 @@
+<div class="page-header">
+    <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+</div>
+
 <div class="row">
   	<div class="col-xs-12 col-md-7 col-lg-6">
       	{{ content }}
@@ -7,26 +11,63 @@
           <iframe id="video" width="560" height="315" src="{{ page.video-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {% endif %}
     </div>
-  	<div class="col-xs-12 col-md-7 col-lg-7 social">
-  		<div id="disqus_thread"></div>
-  		<br/>
-  		<div class="addthis_inline_share_toolbox"></div>
-  	</div>
-
-  	<input type="hidden" id="url" value="{{ BASE_PATH }}{{ post.url }}"/>
-  	<input type="hidden" id="id" value="{{ post.uid }}"/>
-	
-	<script>
-	var disqus_config = function () {
-	this.page.url = document.getElementById("url").value;
-	this.page.identifier = document.getElementById("id").value;
-	};
-
-	(function() { // DON'T EDIT BELOW THIS LINE
-	var d = document, s = d.createElement('script');
-	s.src = 'https://isaacdozier.disqus.com/embed.js';
-	s.setAttribute('data-timestamp', +new Date());
-	(d.head || d.body).appendChild(s);
-	})();
-	</script>                 
 </div>
+
+<div class="row">
+  	<div class="col-xs-12 col-md-8 col-lg-6">
+  		<hr>
+
+  		<ul class="tag_box list-inline">
+	      {% unless page.categories == empty %}
+	        {% assign categories_list = page.categories %}
+	        {% include JB/categories_list %}
+	      {% endunless %}
+
+	      {% unless page.tags == empty %}
+	        {% assign tags_list = page.tags %}
+	        {% include JB/tags_list %}
+	      {% endunless %}
+	    </ul>
+
+	    <hr>
+
+	    <div class="addthis_inline_share_toolbox"></div>
+	    
+	    <hr>
+	    
+	    <ul class="pagination">
+	      {% if page.previous %}
+	        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+	      {% else %}
+	        <li class="prev disabled"><a>&larr; Previous</a></li>
+	      {% endif %}
+	        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+	      {% if page.next %}
+	        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+	      {% else %}
+	        <li class="next disabled"><a>Next &rarr;</a>
+	      {% endif %}
+	    </ul>
+
+	    <hr>
+
+	    {% include JB/comments %}
+  	</div>             
+</div>
+
+<input type="hidden" id="url" value="{{ BASE_PATH }}{{ post.url }}"/>
+<input type="hidden" id="id" value="{{ post.uid }}"/>
+
+<script>
+var disqus_config = function () {
+this.page.url = document.getElementById("url").value;
+this.page.identifier = document.getElementById("id").value;
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://isaacdozier.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script> 

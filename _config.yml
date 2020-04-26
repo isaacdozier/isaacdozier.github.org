@@ -12,7 +12,7 @@ markdown: kramdown
 # so be sure to set them if your theme uses them.
 #
 title : Isaac Dozier
-tagline: Web Developer
+tagline: Toyota 22R, Hiking & Coding
 author :
   name : Isaac Dozier 
   email : isaactdozier@gmail.com
@@ -26,7 +26,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://isaacdozier.com
+production_url : https://isaacdozier.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -82,9 +82,9 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : false
+    provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : isaacdozier
     livefyre :
       site_id : 123
     intensedebate :
