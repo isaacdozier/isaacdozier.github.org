@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Power of API's"
+uid: "the-power-of-apis"
 description: "Google Maps & IP Data API's"
 live-link: http://isaacdozier.com/ip-api
 git-link: https://github.com/isaacdozier/ip-api

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Gulp Project"
+uid: "gulp project"
 description: "Simple Gulp project"
 live-link: https://isaacdozier.github.io/gulp-app/
 git-link: https://github.com/isaacdozier/gulp-app

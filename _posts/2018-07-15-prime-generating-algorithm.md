@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Prime Generating Algorithm"
+uid: "prime-generating-algorithm"
 description: "Generates prime numbers for a given ragne."
 live-link: http://isaacdozier.com/prime-generating-algorithm/
 git-link: https://github.com/isaacdozier/prime-generating-algorithm

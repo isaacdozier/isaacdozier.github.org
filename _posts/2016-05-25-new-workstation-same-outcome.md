@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Learning Jekyll and Gulp on Github with Ric McLaughlin"
+uid: "Learning-Jekyll-and-Gulp-on-Github-with-Ric-McLaughlin"
 description: "Class Homework"
 category: Blog
 tags: [Github, Jekyll, Gulp, Node.js]

@@ -1,0 +1,212 @@
+I"10
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-6">
+      <div class="row">
+        <div class="col-xs-12">
+          <div class="row">
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+              <img class="img-circle pull-left twenty-margin-right" src="https://avatars2.githubusercontent.com/u/15636167?v=3&amp;s=160" alt="Isaac Dozier Profile Image" />
+              <p>
+                99.27% javascript, ruby &amp; jekyll <br />
+                hiking for hidden mushroom patches<br />
+                scalable applications are nice<br />
+                <br />
+              <a target="_blank" href="/solve-X/">
+                <h4>[ Solve X - Algebra Game ]</h4>
+              </a>
+              <a target="_blank" href="https://www.youtube.com/channel/UCZf1_WYi6mudZmfyVOcjnxQ">
+                <h4>[ My YouTube Channel ]</h4>
+              </a>
+              </p>
+            </div>
+          </div>
+          <div class="row list-group">
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/video/22R-Aison-Carburetor-Vacuum-Lines-Diagram&amp;format=gif&amp;size=n" alt="22R Aisin Carburetor Vacuum Lines Diagram" />
+              <a href="/video/22R-Aison-Carburetor-Vacuum-Lines-Diagram" class="list-group-item">
+                <span>[ Video ]</span>
+                <h4 class="list-group-item-heading">22R Aisin Carburetor Vacuum Lines Diagram</h4>
+                <p class="list-group-item-text">
+                  19 Apr 2020 &raquo; 
+                  A close up look at the vacuum line on an Aisin carburetor from a 22R engine.
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/open%20source/Contribute-to-Closed-Captions-on-YouTube&amp;format=gif&amp;size=n" alt="Contribute to Closed Captions on YouTube" />
+              <a href="/open%20source/Contribute-to-Closed-Captions-on-YouTube" class="list-group-item">
+                <span>[ Open Source ]</span>
+                <h4 class="list-group-item-heading">Contribute to Closed Captions on YouTube</h4>
+                <p class="list-group-item-text">
+                  18 Apr 2020 &raquo; 
+                  CC/Closed Captions on YouTube videos can be edited and reviewed by anyone with a youtube account.
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/api/power-of-the-api&amp;format=gif&amp;size=n" alt="The Power of API's" />
+              <a href="/api/power-of-the-api" class="list-group-item">
+                <span>[ API ]</span>
+                <h4 class="list-group-item-heading">The Power of API's</h4>
+                <p class="list-group-item-text">
+                  10 Apr 2020 &raquo; 
+                  Google Maps &amp; IP Data API's
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/open%20source/open-source-website&amp;format=gif&amp;size=n" alt="The Open Source Website Project" />
+              <a href="/open%20source/open-source-website" class="list-group-item">
+                <span>[ Open Source ]</span>
+                <h4 class="list-group-item-heading">The Open Source Website Project</h4>
+                <p class="list-group-item-text">
+                  07 Apr 2020 &raquo; 
+                  An Open Source Github Project for Self Taught Programmers.
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/video/how-to-build-a-pallet-fence&amp;format=gif&amp;size=n" alt="How to Build a Pallet Fence" />
+              <a href="/video/how-to-build-a-pallet-fence" class="list-group-item">
+                <span>[ Video ]</span>
+                <h4 class="list-group-item-heading">How to Build a Pallet Fence</h4>
+                <p class="list-group-item-text">
+                  07 Apr 2020 &raquo; 
+                  I've been building and extending my pallet fence using T posts and pallets. Here is a quick rundown of my technique.
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/app/solve-x&amp;format=gif&amp;size=n" alt="Solve X" />
+              <a href="/app/solve-x" class="list-group-item">
+                <span>[ App ]</span>
+                <h4 class="list-group-item-heading">Solve X</h4>
+                <p class="list-group-item-text">
+                  15 Jul 2018 &raquo; 
+                  A simple formula generator for learning beginners algebra.
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/app/prime-generating-algorithm&amp;format=gif&amp;size=n" alt="Prime Generating Algorithm" />
+              <a href="/app/prime-generating-algorithm" class="list-group-item">
+                <span>[ App ]</span>
+                <h4 class="list-group-item-heading">Prime Generating Algorithm</h4>
+                <p class="list-group-item-text">
+                  15 Jul 2018 &raquo; 
+                  Generates prime numbers for a given ragne.
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/project/javascript-canvas-timer-animation&amp;format=gif&amp;size=n" alt="Javascript &amp; Canvas Timer App" />
+              <a href="/project/javascript-canvas-timer-animation" class="list-group-item">
+                <span>[ Project ]</span>
+                <h4 class="list-group-item-heading">Javascript &amp; Canvas Timer App</h4>
+                <p class="list-group-item-text">
+                  29 Jan 2018 &raquo; 
+                  A basic timer app using canvas to display a second hand
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/app/javascript-paint-app&amp;format=gif&amp;size=n" alt="Javascript Paint App" />
+              <a href="/app/javascript-paint-app" class="list-group-item">
+                <span>[ App ]</span>
+                <h4 class="list-group-item-heading">Javascript Paint App</h4>
+                <p class="list-group-item-text">
+                  20 Jan 2018 &raquo; 
+                  A Basic Paint App Built using Javascript
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/app/fis-calculator&amp;format=gif&amp;size=n" alt="Fraction-Inch Calculator" />
+              <a href="/app/fis-calculator" class="list-group-item">
+                <span>[ App ]</span>
+                <h4 class="list-group-item-heading">Fraction-Inch Calculator</h4>
+                <p class="list-group-item-text">
+                  11 Jan 2018 &raquo; 
+                  A tool for converting decimal numbers and expression to fraction-inch format. Also capable of conversions from fraction-inch to decimal.
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/api/screenshot-api&amp;format=gif&amp;size=n" alt="Screenshot API" />
+              <a href="/api/screenshot-api" class="list-group-item">
+                <span>[ API ]</span>
+                <h4 class="list-group-item-heading">Screenshot API</h4>
+                <p class="list-group-item-text">
+                  19 Jun 2016 &raquo; 
+                  Add simple screenshot API to website
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/freecodecamp/tribute-page&amp;format=gif&amp;size=n" alt="Michael Faraday Tribute Page" />
+              <a href="/freecodecamp/tribute-page" class="list-group-item">
+                <span>[ FreeCodeCamp ]</span>
+                <h4 class="list-group-item-heading">Michael Faraday Tribute Page</h4>
+                <p class="list-group-item-text">
+                  01 Jun 2016 &raquo; 
+                  A tribute page dedicated to Michael Faraday
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/project/jekyll-site-my-portfolio&amp;format=gif&amp;size=n" alt="Jekyll Site (my portfolio)" />
+              <a href="/project/jekyll-site-my-portfolio" class="list-group-item">
+                <span>[ Project ]</span>
+                <h4 class="list-group-item-heading">Jekyll Site (my portfolio)</h4>
+                <p class="list-group-item-text">
+                  01 Jun 2016 &raquo; 
+                  The code that builds my static pages hosted on github - Jekyll
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/project/display-names-challenge&amp;format=gif&amp;size=n" alt="Display Names Challenge" />
+              <a href="/project/display-names-challenge" class="list-group-item">
+                <span>[ Project ]</span>
+                <h4 class="list-group-item-heading">Display Names Challenge</h4>
+                <p class="list-group-item-text">
+                  01 Jun 2016 &raquo; 
+                  Multi language ISO 639-2 building block
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/project/gulp-app-2&amp;format=gif&amp;size=n" alt="Gulp App 2" />
+              <a href="/project/gulp-app-2" class="list-group-item">
+                <span>[ Project ]</span>
+                <h4 class="list-group-item-heading">Gulp App 2</h4>
+                <p class="list-group-item-text">
+                  29 May 2016 &raquo; 
+                  Final Class Project
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/freecodecamp/caesar-cipher&amp;format=gif&amp;size=n" alt="Caesar Cipher" />
+              <a href="/freecodecamp/caesar-cipher" class="list-group-item">
+                <span>[ FreeCodeCamp ]</span>
+                <h4 class="list-group-item-heading">Caesar Cipher</h4>
+                <p class="list-group-item-text">
+                  29 May 2016 &raquo; 
+                  My Caesar Cipher Solution
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/project/gulp-project&amp;format=gif&amp;size=n" alt="Gulp Project" />
+              <a href="/project/gulp-project" class="list-group-item">
+                <span>[ Project ]</span>
+                <h4 class="list-group-item-heading">Gulp Project</h4>
+                <p class="list-group-item-text">
+                  27 May 2016 &raquo; 
+                  Simple Gulp project
+                </p>
+              </a>
+            
+            <img class="img-fluid" src="http://api.screenshotmachine.com/?key=ab710a&amp;url=https://isaacdozier.com/blog/new-workstation-same-outcome&amp;format=gif&amp;size=n" alt="Learning Jekyll and Gulp on Github with Ric McLaughlin" />
+              <a href="/blog/new-workstation-same-outcome" class="list-group-item">
+                <span>[ Blog ]</span>
+                <h4 class="list-group-item-heading">Learning Jekyll and Gulp on Github with Ric McLaughlin</h4>
+                <p class="list-group-item-text">
+                  25 May 2016 &raquo; 
+                  Class Homework
+                </p>
+              </a>
+                
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+:ET

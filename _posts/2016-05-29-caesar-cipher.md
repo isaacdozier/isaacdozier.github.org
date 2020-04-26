@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Caesar Cipher"
+uid: "caesar-cipher"
 description: "My Caesar Cipher Solution"
 git-link: https://github.com/isaacdozier/caesar-cipher
 category: FreeCodeCamp

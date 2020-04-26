@@ -80,3 +80,12 @@
     font-family: monospace;
     font-size: 14px;
 }
+
+.social {
+    background-color: #f8f8f8;
+    border: 1px solid #e7e7e7;
+    padding-top: 6px;
+    padding-bottom: 12px;
+    margin-top: 24px;
+    margin-bottom: 12px;
+}

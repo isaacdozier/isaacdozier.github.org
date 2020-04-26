@@ -6,5 +6,27 @@
         {% if page.video-link %}
           <iframe id="video" width="560" height="315" src="{{ page.video-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {% endif %}
+    </div>
+  	<div class="col-xs-12 col-md-7 col-lg-7 social">
+  		<div id="disqus_thread"></div>
+  		<br/>
+  		<div class="addthis_inline_share_toolbox"></div>
   	</div>
+
+  	<input type="hidden" id="url" value="{{ BASE_PATH }}{{ post.url }}"/>
+  	<input type="hidden" id="id" value="{{ post.uid }}"/>
+	
+	<script>
+	var disqus_config = function () {
+	this.page.url = document.getElementById("url").value;
+	this.page.identifier = document.getElementById("id").value;
+	};
+
+	(function() { // DON'T EDIT BELOW THIS LINE
+	var d = document, s = d.createElement('script');
+	s.src = 'https://isaacdozier.disqus.com/embed.js';
+	s.setAttribute('data-timestamp', +new Date());
+	(d.head || d.body).appendChild(s);
+	})();
+	</script>                 
 </div>

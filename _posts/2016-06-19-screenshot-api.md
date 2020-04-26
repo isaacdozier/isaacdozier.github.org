@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Screenshot API"
+uid: "screenshot-api"
 description: "Add simple screenshot API to website"
 category: API
 tags: [API]

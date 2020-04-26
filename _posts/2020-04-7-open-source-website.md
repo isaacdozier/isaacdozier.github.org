@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Open Source Website Project"
+uid: "open-source-website-project"
 description: "An Open Source Github Project for Self Taught Programmers."
 live-link: https://selftaughtprogrammers.github.io/
 git-link: https://github.com/selftaughtprogrammers/selftaughtprogrammers.github.io

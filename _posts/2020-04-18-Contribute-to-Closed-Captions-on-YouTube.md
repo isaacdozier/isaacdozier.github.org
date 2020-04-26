@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Contribute to Closed Captions on YouTube"
+uid: "contribute-to-youtube-closed-captions"
 description: "CC/Closed Captions on YouTube videos can be edited and reviewed by anyone with a youtube account."
 live-link: http://www.youtube.com/timedtext_cs_panel?c=UCZf1_WYi6mudZmfyVOcjnxQ&tab=2
 git-link: 

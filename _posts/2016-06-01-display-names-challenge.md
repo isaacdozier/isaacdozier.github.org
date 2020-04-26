@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Display Names Challenge"
+uid: "display-names-challenge"
 description: "Multi language ISO 639-2 building block"
 git-link: https://github.com/isaacdozier/display-names
 category: Project
