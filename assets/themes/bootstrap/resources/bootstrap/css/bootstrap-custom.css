@@ -89,3 +89,13 @@
     margin-top: 24px;
     margin-bottom: 12px;
 }
+
+.cat_home {
+    color: #b1b1b1;
+}
+
+.live-site {
+    border: 1px solid #797979;
+    padding: 2px;
+    background-color: #bdbdbd;
+}

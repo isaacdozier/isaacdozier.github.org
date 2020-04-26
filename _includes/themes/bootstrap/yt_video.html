@@ -8,8 +8,14 @@
   	</div>
   	<div class="col-xs-12 col-md-5 col-lg-6">
         {% if page.video-link %}
-          <iframe id="video" width="560" height="315" src="{{ page.video-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe id="video" data-spy="affix" width="560" height="315" src="https://youtube.com/embed/{{ page.video-link }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {% endif %}
+    </div>
+    <div class="col-xs-12 col-md-5 col-lg-6">
+    	Video Link: 
+        <a href="https://youtu.be/{{ page.video-link }}" >
+      		https://youtu.be/{{ page.video-link }}
+      	</a>
     </div>
 </div>
 

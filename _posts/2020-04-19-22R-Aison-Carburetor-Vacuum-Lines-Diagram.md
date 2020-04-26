@@ -1,24 +1,28 @@
 ---
-layout: video
+layout: yt_video
 title: "22R Aisin Carburetor Vacuum Lines Diagram"
 uid: "22r-aisin-carburetor-vacuum-lines-diagram"
 description: "A close up look at the vacuum line on an Aisin carburetor from a 22R engine."
-video-link: https://www.youtube.com/embed/9omRz4x0oHI
+video-link: 9omRz4x0oHI
 category: Video
 tags: [YouTube, 22R, Aisin Carburetor]
 ---
 {% include JB/setup %}
 <div id="content" class="row">
 	<div class="col-xs-12 col-md-9 col-lg-9">
-		<img id="img" src="{{ BASE_PATH }}/assets/custom-img/0.png">
+		<b>Best if viewed on a desktop computer</b>
+		<br/>
+		<br/>
 		👉 <a id="img-link" target="_blank" href="{{ BASE_PATH }}/assets/custom-img/0.png">Full Size Image</a>
-		<h4>22R Aisin Carburetor Vacuum Lines Diagram</h4>
-		<p>Select a timestamp to view in-video image.
-		Images matched to timestamp for reference purposes.</p>
-		<img id="img-real" src="{{ BASE_PATH }}/assets/custom-img/real/0.jpg">
+		<img id="img" src="{{ BASE_PATH }}/assets/custom-img/0.png">
+		<br/>
+		<br/>
 		👉 <a id="img-real-link" target="_blank" href="{{ BASE_PATH }}/assets/custom-img/real/0.jpg">Full Size Image</a>
+		<img id="img-real" src="{{ BASE_PATH }}/assets/custom-img/real/0.jpg">
 	</div>
 	<div class="col-xs-12 col-md-3 col-lg-3">
+		<i>*select timestamp to view in-video image</i>
+		<br/>
 		<br/>
 		0:00 → <button style="background-color: red" id="0" onclick="changeImg(0)">0</button> <br/>
 		0:37 → <button id="1" onclick="changeImg(1)">1</button> <br/>

@@ -9,7 +9,19 @@
         <div class="date">
           <span>{{ page.date | date_to_long_string }}</span>
         </div>
+
         {{ content }}
+
+        <ul class="bits_box list-inline">
+          {% if page.live-link %}
+            <li>view the <a target="_blank" href="{{ page.live-link }}">live site</a> .. </li>
+          {% endif %}
+          
+          {% if page.git-link %}
+            <li>analyze the <a target="_blank" href="{{ page.git-link }}">source code</a> .. </li>
+          {% endif %}
+        </ul>
+        <hr>
       </div>
       
       <div class="col-xs-12 col-md-6 col-lg-4">
@@ -19,53 +31,49 @@
           </a>
 
           <a target="_blank" href="{{ page.live-link }}">
-            <img class="img-responsive img-even" 
+            <img class="img-responsive img-even live-site" 
                src="http://api.screenshotmachine.com/?key=ab710a&url={{ page.live-link }}&format=gif&size=n"
                alt="{{ page.title }}"/>
           </a>
         {% endif %}
       </div>
-    </div>
-    
-    <ul class="bits_box list-inline">
-      {% if page.live-link %}
-        <li>view the <a target="_blank" href="{{ page.live-link }}">live site</a> .. </li>
-      {% endif %}
-      
-      {% if page.git-link %}
-        <li>analyze the <a target="_blank" href="{{ page.git-link }}">source code</a> .. </li>
-      {% endif %}
-    </ul>
-    
-    <hr>
-  
-    <ul class="tag_box list-inline">
-      {% unless page.categories == empty %}
-        {% assign categories_list = page.categories %}
-        {% include JB/categories_list %}
-      {% endunless %}
 
-      {% unless page.tags == empty %}
-        {% assign tags_list = page.tags %}
-        {% include JB/tags_list %}
-      {% endunless %}
-    </ul>
-    
-    <hr>
-    
-    <ul class="pagination">
-      {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
-      {% else %}
-        <li class="prev disabled"><a>&larr; Previous</a></li>
-      {% endif %}
-        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-      {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
-      {% else %}
-        <li class="next disabled"><a>Next &rarr;</a>
-      {% endif %}
-    </ul>
-    {% include JB/comments %}
+      <div class="col-xs-12 col-md-6 col-lg-8">
+        <ul class="tag_box list-inline">
+          {% unless page.categories == empty %}
+            {% assign categories_list = page.categories %}
+            {% include JB/categories_list %}
+          {% endunless %}
+
+          {% unless page.tags == empty %}
+            {% assign tags_list = page.tags %}
+            {% include JB/tags_list %}
+          {% endunless %}
+        </ul>
+
+        <hr>
+
+        <div class="addthis_inline_share_toolbox"></div>
+        
+        <hr>
+        
+        <ul class="pagination">
+          {% if page.previous %}
+            <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+          {% else %}
+            <li class="prev disabled"><a>&larr; Previous</a></li>
+          {% endif %}
+            <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+          {% if page.next %}
+            <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+          {% else %}
+            <li class="next disabled"><a>Next &rarr;</a>
+          {% endif %}
+        </ul>
+
+        <hr>
+
+        {% include JB/comments %}
+      </div>
   </div>
 </div>

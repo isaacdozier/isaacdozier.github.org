@@ -1,15 +1,16 @@
-I"�
+I"n
 <div id="content" class="row">
 	<div class="col-xs-12 col-md-9 col-lg-9">
-		<img id="img" src="/assets/custom-img/0.png" />
+		<b>Best if used on a desktop computer</b>
 		👉 <a id="img-link" target="_blank" href="/assets/custom-img/0.png">Full Size Image</a>
-		<h4>22R Aisin Carburetor Vacuum Lines Diagram</h4>
-		<p>Select a timestamp to view in-video image.
-		Images matched to timestamp for reference purposes.</p>
-		<img id="img-real" src="/assets/custom-img/real/0.jpg" />
+		<img id="img" src="/assets/custom-img/0.png" />
+		<br />
 		👉 <a id="img-real-link" target="_blank" href="/assets/custom-img/real/0.jpg">Full Size Image</a>
+		<img id="img-real" src="/assets/custom-img/real/0.jpg" />
 	</div>
 	<div class="col-xs-12 col-md-3 col-lg-3">
+		<i>*select a timestamp to view in-video image</i>
+		<br />
 		<br />
 		0:00 → <button style="background-color: red" id="0" onclick="changeImg(0)">0</button> <br />
 		0:37 → <button id="1" onclick="changeImg(1)">1</button> <br />
