@@ -49,7 +49,10 @@
     </nav>
     <div class="container">
       {{ content }}
-      <hr>
+        <hr> 
+      <!-- Go to www.addthis.com/dashboard to customize your tools -->
+      <div class="addthis_inline_share_toolbox"></div>
+        <hr>  
       <footer>
         <p>
           {% assign pages_list = site.pages %}
@@ -65,5 +68,8 @@
     {% include JB/analytics %}
     <script src="{{ ASSET_PATH }}/resources/jquery/jquery.min.js"></script>
     <script src="{{ ASSET_PATH }}/resources/bootstrap/js/bootstrap.min.js"></script>
+    
+    <!-- Go to www.addthis.com/dashboard to customize your tools -->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ea4e527655b0c4d"></script>
   </body>
 </html>

@@ -1,4 +1,4 @@
-I"� 
+I"�
 <div class="container">
   <div class="row">
     <div class="col-xs-12 col-md-6">
@@ -8,19 +8,15 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
               <img class="img-circle pull-left twenty-margin-right" src="https://avatars2.githubusercontent.com/u/15636167?v=3&amp;s=160" alt="Isaac Dozier Profile Image" />
               <p>
-                ▸ mostly javaScript, ruby &amp; github <br />
-                <br /> 
-                ▸ i like Hiking<br /> 
-                ▸ i go mushroom picking<br />
+                99.27% javascript, ruby &amp; jekyll <br />
+                hiking for hidden mushroom patches<br />
+                scalable applications are nice<br />
                 <br />
-                ▸ scalable applications are cool<br />
-                ▸ nothing beats playing fetch with my dog<br />
-              
-              <a target="_blank" href="https://www.youtube.com/channel/UCZf1_WYi6mudZmfyVOcjnxQ">
-                <img src="/assets/icon/yt_logo.png" height="18" alt="youtube logo isaac dozier" />
-              </a>
               <a target="_blank" href="/solve-X/">
-                [ Solve X - Algebra Game ]
+                <h4>[ Solve X - Algebra Game ]</h4>
+              </a>
+              <a target="_blank" href="https://www.youtube.com/channel/UCZf1_WYi6mudZmfyVOcjnxQ">
+                <h4>[ My YouTube Channel ]</h4>
               </a>
               </p>
             </div>
