@@ -99,3 +99,10 @@
     padding: 2px;
     background-color: #bdbdbd;
 }
+
+#solve-x {
+    margin-top: 4px;
+    color: #cc5a48;
+    margin-left: 38px;
+    font-size: 16px;
+}

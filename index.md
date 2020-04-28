@@ -8,7 +8,7 @@ description: YouTube Projects, Internet Tools, Outdoor Stuff, 99.27% javascript,
 
 <div class="container">
   <div class="row">
-    <div class="col-xs-12 col-md-6">
+    <div class="col-xs-12 col-md-6 col-lg-6">
       <div class="row">
         <div class="col-xs-12">
           <div class="row">
@@ -21,12 +21,6 @@ description: YouTube Projects, Internet Tools, Outdoor Stuff, 99.27% javascript,
                 hiking for hidden mushroom patches<br />
                 scalable applications are nice<br />
                 <br/>
-              <a target="_blank" href="{{ BASE_PATH }}/solve-X/">
-                <h4>[ Solve X - Algebra Game ]</h4>
-              </a>
-              <a target="_blank" href="https://www.youtube.com/channel/UCZf1_WYi6mudZmfyVOcjnxQ">
-                <h4>[ My YouTube Channel ]</h4>
-              </a>
               </p>
             </div>
           </div>
