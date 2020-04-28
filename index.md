@@ -15,7 +15,8 @@ description: YouTube Projects, Internet Tools, Outdoor Stuff, 99.27% javascript,
             <div class="collapse navbar-collapse navbar-ex1-collapse">
               <img class="img-circle pull-left twenty-margin-right" 
                  src="https://avatars2.githubusercontent.com/u/15636167?v=3&s=160"
-                 alt="Isaac Dozier Profile Image"/>
+                 alt="Isaac Dozier Profile Image"
+                 height="112px"/>
               <p>
                 99.27% javascript, ruby & jekyll <br />
                 hiking for hidden mushroom patches<br />
