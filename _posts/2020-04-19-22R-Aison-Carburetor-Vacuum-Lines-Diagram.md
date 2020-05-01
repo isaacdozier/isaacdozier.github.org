@@ -56,3 +56,5 @@ tags: [YouTube, 22R, Aisin Carburetor]
 </div>
 
 <script src="{{ BASE_PATH }}/assets/custom-js/22r.js"></script>
+
+<script data-ad-client="ca-pub-9409668607681174" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
