@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IsaacDozier.com | 22R Videos, Coding, Mushrooms & more...
+title: IsaacDozier.org | 22R Videos, Coding, Mushrooms & more...
 tagline: YouTube Projects, Internet Tools, Outdoor Stuff
 description: YouTube Projects, Internet Tools, Outdoor Stuff, 99.27% javascript, ruby & jekyll, hiking for hidden mushroom patches, scalable applications are nice
 ---
