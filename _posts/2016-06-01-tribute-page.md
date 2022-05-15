@@ -3,7 +3,7 @@ layout: post
 title: "Michael Faraday Tribute Page"
 uid: "michael-farady-tribute-page"
 description: "A tribute page dedicated to Michael Faraday"
-live-link: http://www.isaacdozier.com/tribute-page/
+live-link: http://www.isaacdozier.org/tribute-page/
 git-link: https://github.com/isaacdozier/tribute-page
 category: FreeCodeCamp
 tags: [html, css, Bootstrap]

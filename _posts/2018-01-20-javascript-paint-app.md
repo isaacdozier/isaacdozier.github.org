@@ -3,7 +3,7 @@ layout: post
 title: "Javascript Paint App"
 uid: "javascript-paint-app"
 description: "A Basic Paint App Built using Javascript"
-live-link: http://www.isaacdozier.com/drawing-app/
+live-link: http://www.isaacdozier.org/drawing-app/
 git-link: https://github.com/isaacdozier/drawing-app
 category: App
 tags: [Javascript, html, css, Bootstrap]
